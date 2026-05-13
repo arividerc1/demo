@@ -2,3 +2,6 @@
 dota2
 321
 2dota
+
+maxim
+daun
